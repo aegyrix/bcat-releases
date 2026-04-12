@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# No source code — this repo is for releases only
+# Only CHANGELOG.md, README.md, and binary assets belong here
+*.ts
+*.js
+*.py
+*.cs
+*.php
+*.sh
+*.ps1
+*.go
+*.rs
+*.swift
+*.java
+*.c
+*.cpp
+*.h
+node_modules/
+src/
+lib/
+dist/
+build/
