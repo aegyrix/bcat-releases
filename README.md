@@ -1,6 +1,6 @@
 # Bcat Releases
 
-Release notes and installers for [Bcat](https://bcat.app) by [Aegyrix](https://aegyrix.com).
+Release notes and installers for [Bcat](https://bcat.app) by [Ægyrix](https://aegyrix.com).
 
 This repo contains **no source code** — only changelogs and release notes.
 
